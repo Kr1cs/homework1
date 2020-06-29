@@ -1,0 +1,25 @@
+
+.header{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 50px; 
+        text-align: center;
+     }
+     .imgp{
+         text-align: center;
+     }
+     .ptext{
+         font-size: 20px;
+         text-align: justify;
+         text-indent: 30px;
+     }
+
+    #leo{color: red;}
+    img{
+        border:2px solid gray;
+        padding: 5 px;
+
+    }
+     p{
+         background-color: royalblue;
+     }
+  

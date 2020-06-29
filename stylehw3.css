@@ -1,0 +1,36 @@
+body{
+	background-image: url(party.jpg);
+	background-size: cover;
+	font-size: 16px;
+	font-family: Times New Roman;
+	
+}
+
+
+.center{
+	margin:auto;
+	width: 350px;
+	padding: 10px;
+	
+}
+
+.form-gr{
+	margin: 10px 0;
+}
+.form-gr label{
+	color: blue;
+	font-size:15px;
+
+}
+.form-control{
+	width: 100%;
+	border:1px solid green;
+}
+
+.form-submit{
+	width: 100%;
+	border:1px solid black;
+	padding: 8px;
+	
+
+}

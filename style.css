@@ -1,0 +1,24 @@
+p{margin: 0;padding: 0;}
+
+.center{text-align: center;}
+
+.section-header{
+   font-size: 30px;
+   text-align: center;
+   font-family: 'courier new'
+
+}
+.text
+{
+ font-family: 'Gill Sans',Sans-serif;
+ font-size: 24px
+}
+.border-image{
+	border: 10px solid gray;
+	padding: 10px;
+	margin: 10px;
+	background-color: lightgray;
+}
+.padding-bottom{
+	padding-bottom: 20px;
+}
